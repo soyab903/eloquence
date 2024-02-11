@@ -90,7 +90,7 @@ class Builder extends HookableBuilder
 
     /**
      * Filter the Query by Date Range on "Current Table" only 
-     * abd return results (Developed By Urbans Scrap)
+     * abd return results (Developed By : Urbans Scrap)
      *
      * @param  string $date_range (Format: `START_DATE - END_DATE`, where joiner '-' is very Important)
      * @param  string $column
